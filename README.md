@@ -1,5 +1,5 @@
 # About
-This is a simple Jupyter Notebook that depicts various visualization techniques using matplotlib, seaborn, and pandas.
+This is a simple Python Jupyter Notebook that depicts various visualization techniques using matplotlib, seaborn, and pandas.
 
 # References
 - Graded Exercise from University
